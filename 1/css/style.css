@@ -1,0 +1,19 @@
+#but {
+    display: flex;
+    width: 150px;
+    height: 50px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+}
+.btn-text {
+    font-size: 30px;
+}
+.btn-icon {
+    width: 30px;
+}
+
+.btn-icon_dark{
+    display: none;
+    width: 30px;
+}

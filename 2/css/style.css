@@ -1,0 +1,13 @@
+#but {
+    display: flex;
+    width: 150px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: red;
+    color: #fff;
+}
+
